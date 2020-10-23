@@ -1,9 +1,7 @@
-# Pilaster: A dataset of publications and citation metadata on visualization for the digital humanities
-
 **Pilaster** is a collection of citation metadata extracted from publications in visualization for the digital humanities. 
 The collection is generated from a seed set of relevant publications from which we extracted cited works.
 
-The main purpose of this research was to provide a contextualized characterization of the field according to its different areas of application, which could serve as a starting point for future studies such as literature reviews or mapping studies, among others. 
+The main purpose of this research was to provide a contextualized characterization of the field according to its different areas of application, which could serve as a starting point for future studies such as literature reviews or mapping studies, among others. The study was carried out by researchers at the Visualization and Visual Analytics Group of the University of Salamanca, Spain. ([VisUSAL](http://visusal.usal.es/)).
 
 The dataset is provided as a Google Sheets spreadsheet for ease of manipulation. In addition, we offer some example python code (in Google Colab) to help you get started using the data:
 
