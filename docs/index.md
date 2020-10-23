@@ -5,9 +5,11 @@ The collection is generated from a seed set of relevant publications from which 
 
 The main purpose of this research was to provide a contextualized characterization of the field according to its different areas of application, which could serve as a starting point for future studies such as literature reviews or mapping studies, among others. 
 
-[Dataset in Google Sheets](https://docs.google.com/spreadsheets/d/1Z8aMhxpai510hkuSVAFW6L4QyQfPPvUnv8IjKuF2_Jo)
+The dataset is provided as a Google Sheets spreadsheet for ease of manipulation. In addition, we offer some example python code (in Google Colab) to help you get started using the data:
 
-[Example code in Google Colab](https://colab.research.google.com/drive/15cNprIDXsN1WMa660lo-ApimMib8vdth)
+[Get the dataset in Google Sheets](https://docs.google.com/spreadsheets/d/1Z8aMhxpai510hkuSVAFW6L4QyQfPPvUnv8IjKuF2_Jo)
+
+[Get example code in Google Colab](https://colab.research.google.com/drive/15cNprIDXsN1WMa660lo-ApimMib8vdth)
 
 
 To read the paper, click on the image below:
@@ -35,13 +37,12 @@ For each cited work, we collected publication year and venue, keywords, authors 
 
 ### Cite this work
 
-*A. Benito-Santos and R. Therón, ‘Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities’, presented at the 5th Workshop on Visualization for the Digital Humanities, 2020.*
+*A. Benito-Santos and R. Therón, ‘Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities’, presented at the 5th Workshop on Visualization for the Digital Humanities, 2020.* [BibTeX](bibtex/pilaster.bib)
 
 ### Works using this dataset
-*A. Benito-Santos and R. T. Sánchez, ‘A Data-Driven Introduction to Authors, Readings, and Techniques in Visualization for the Digital Humanities’, IEEE Computer Graphics and Applications, vol. 40, no. 3, pp. 45–57, May 2020, doi: [10.1109/MCG.2020.2973945](https://doi.org/10.1109/MCG.2020.2973945).*
-
+*A. Benito-Santos and R. T. Sánchez, ‘A Data-Driven Introduction to Authors, Readings, and Techniques in Visualization for the Digital Humanities’, IEEE Computer Graphics and Applications, vol. 40, no. 3, pp. 45–57, May 2020, doi: [10.1109/MCG.2020.2973945](https://doi.org/10.1109/MCG.2020.2973945).* [BibTeX](bibtex/data-driven-introduction.bib)
 ### Contact
-Please send requests for corrections or comments to [Alejandro Benito-Santos.](mailto:abenito@usal.es?subject=[GitHub]Pilaster-contact)
+If you want your work displayed in this page, or have any requests for corrections or comments, please contact [Alejandro Benito-Santos.](mailto:abenito@usal.es?subject=[GitHub]Pilaster-contact)
 
 
 
