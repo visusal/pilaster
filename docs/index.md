@@ -1,9 +1,11 @@
 **Pilaster** is a collection of citation metadata extracted from publications on visualization for the digital humanities. 
-The collection is generated from a seed set of relevant publications from which we extracted cited works.
+The collection was generated from a seed set of relevant papers published in the [IEEVIS VIS4DH Workshop](http://vis4dh.dbvis.de/), the [ADHO Digital Humanities Conference](https://adho.org/conference) and the specialized journal [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/) between the years 2016-2019, from which we extracted cited works.
 
-The research's main purpose was to provide a contextualized characterization of the field according to its different areas of application and involved disciplines, which could serve as a starting point for future studies such as literature reviews or mapping studies, among others. The study was carried out by researchers from the Visualization and Visual Analytics Group of the University of Salamanca ([VisUSAL](http://visusal.usal.es/)), in Spain.
+The research's main purpose was to provide a contextualized characterization of the field according to its different areas of application and involved disciplines, which could serve as a starting point for future studies such as literature reviews or mapping studies. 
 
-The dataset is provided as a Google Sheets spreadsheet for ease of manipulation. In addition, we offer some example python code (in Google Colab) to help you get started using the data:
+The study was carried out by researchers from the [Visualization and Visual Analytics Group of the University of Salamanca, VisUSAL](http://visusal.usal.es/).
+
+The dataset is given as a Google Sheets spreadsheet for ease of manipulation. In addition, we offer some example python code (in Google Colab) to help you get started using the data:
 
 [Get the dataset in Google Sheets](https://docs.google.com/spreadsheets/d/1Z8aMhxpai510hkuSVAFW6L4QyQfPPvUnv8IjKuF2_Jo)
 
