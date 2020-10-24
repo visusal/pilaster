@@ -1,7 +1,7 @@
-**Pilaster** is a collection of citation metadata extracted from publications in visualization for the digital humanities. 
+**Pilaster** is a collection of citation metadata extracted from publications on visualization for the digital humanities. 
 The collection is generated from a seed set of relevant publications from which we extracted cited works.
 
-The main purpose of this research was to provide a contextualized characterization of the field according to its different areas of application, which could serve as a starting point for future studies such as literature reviews or mapping studies, among others. The study was carried out by researchers from the Visualization and Visual Analytics Group of the University of Salamanca ([VisUSAL](http://visusal.usal.es/)), in Spain.
+The research's main purpose was to provide a contextualized characterization of the field according to its different areas of application and involved disciplines, which could serve as a starting point for future studies such as literature reviews or mapping studies, among others. The study was carried out by researchers from the Visualization and Visual Analytics Group of the University of Salamanca ([VisUSAL](http://visusal.usal.es/)), in Spain.
 
 The dataset is provided as a Google Sheets spreadsheet for ease of manipulation. In addition, we offer some example python code (in Google Colab) to help you get started using the data:
 
@@ -20,7 +20,7 @@ To read the paper, click on the image below:
 
 
 ## Seed Dataset
-The seed dataset contains 119 publications between the years 2016-2019 and it was built by sampling relevant publications on visualization for the digital humanities in three different engineering- ([IEEVIS VIS4DH Workshop](http://vis4dh.dbvis.de/)) and humanities-oriented ([ADHO Digital Humanities Conference](https://adho.org/conference) & [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)) venues and journals.
+The seed dataset contains 119 publications originated between the years 2016-2019 and it was built by sampling relevant publications on visualization for the digital humanities in three different engineering- ([IEEVIS VIS4DH Workshop](http://vis4dh.dbvis.de/)) and humanities-oriented ([ADHO Digital Humanities Conference](https://adho.org/conference) & [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)) venues.
 
 <p align="center"><img src="img/seed_by_year_and_venue.png" width="200"></p>
 
